@@ -1,0 +1,5 @@
+{
+	"ffmpeg": "c:\\tools\\ffmpeg-master-latest-win64-gpl\\bin\\ffmpeg.exe",
+	"gopro_source": "c:\\Video\\GoPro\\Import",
+	"gopro_destination": "c:\\Video\\GoPro"
+}
